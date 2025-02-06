@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
-list_title: "我的文章"
+title: 欢迎来到浮霄的博客
+list_title: "道中杂记"
 ---
-just test
+**千里之行，始于足下。**
